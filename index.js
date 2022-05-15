@@ -24,27 +24,27 @@ const questions = [
     {
       type: "input",
       name: "description",
-      message: "please enter a detailed descrition for your project?"
+      message: "Please enter a detailed descrition for your project?"
     },
     {
       type: "input",
       name: "installation",
-      message: "please enter any instillation instructions for your project?"
+      message: "Please enter any instillation instructions for your project?"
     },
     {
       type: "input",
       name: "usage",
-      message: "please enter any usage instructions for your project?"
+      message: "Please enter any usage instructions for your project?"
     },
     {
       type: "input",
       name: "contribution",
-      message: "please enter any contributors for the project?"
+      message: "Please enter any contributors for the project?"
   },
   {
     type: "input",
     name: "tests",
-    message: "please enter any testing instructions for your project?"
+    message: "Please enter any testing instructions for your project?"
 },
 { 
   type: "list",
